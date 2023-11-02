@@ -1,0 +1,2 @@
+# DjangoTasks
+Intern tasks
